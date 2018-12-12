@@ -10,3 +10,5 @@ Aprenda HTML5, CSS3 e JavaScript e programe a Web do futuro. Veja boas práticas
 A Caelum oferece cursos de TI desde 2004 em todo o Brasil. É conhecida por seus cursos nas áreas de Java, mobile, front-end, .NET, agile, além de cursos online. Temos diversas apostilas abertas para download e consulta gratuita. E, se estiver interessado em nossos cursos, não deixe de entrar em contato.
 
 Link para apostila web do curso: https://www.caelum.com.br/apostila-html-css-javascript/ 
+
+Próximo Capitulo: 2.10 Estilizando com CSS
