@@ -1,0 +1,25 @@
+h1{
+    font-family: serif;
+    background-image: url(../img/sobre-background.jpg);
+}
+
+h2{
+    font-family: sans-serif;
+}
+
+p {
+    font-family: monospace;
+    color: blue;
+    background-color: yellow;
+    text-align: justify;
+    line-height: 3px; /* tamanho da altura de cada linha */
+    letter-spacing: 3px; /* tamanho do espaço entre cada letra */
+    word-spacing: 5px; /* tamanho do espaço entre cada palavra */
+    text-indent: 30px; /* tamanho da margem da primeira linha do texto */
+}
+
+body{
+    font-family: "Arial", "Helvetica", sans-serif;
+    border: 1px solid red;
+    background: gold;
+}
