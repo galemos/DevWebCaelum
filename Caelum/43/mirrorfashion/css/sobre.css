@@ -1,22 +1,45 @@
+/* SELETORES POR NOME DA TAG */
+
+/* corpo da página */
 body{
     color: #333333;
     font-family: 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;
+    /* margens a esquerda e direita automática, e largura máxima faz com que tudo fique centralizado */
+    margin-left: auto;
+    margin-right: auto;
+    width: 940px;
 }
 
+/* titulo */
 h1{
+    /* coloca uma imagem de fundo */
     background-image: url(../img/sobre-background.jpg);
+    padding: 10px;
 }
 
+/* subtitulo */
 h2{
     border: 2px solid #333333;  
+    margin-top: 30px;
 }
 
+/* parágrafo */
+p{
+    padding: 0 45px;
+    text-indent: 15px;
+}
+
+/* imagem */
 figure{
     background-color: #F2EDED;
     border: 1px solid #ccc;
     text-align: center;
+    padding: 15px;
+    margin: 30;
 }
 
+/* legenda da imagem */
 figcaption{
     font-style: italic;
+    margin-top: 10px;
 }

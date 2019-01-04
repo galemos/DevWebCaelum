@@ -11,4 +11,4 @@ A Caelum oferece cursos de TI desde 2004 em todo o Brasil. É conhecida por seus
 
 Link para apostila web do curso: https://www.caelum.com.br/apostila-html-css-javascript/ 
 
-Próximo Capitulo: 2.20
+Próximo Capitulo: 2.24
